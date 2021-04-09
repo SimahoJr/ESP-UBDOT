@@ -4,7 +4,7 @@
 
 #include "Ubidots.h"
 
-const char* UBIDOTS_TOKEN = "BBFF-GQKrdvNvAZiFZ3o0Tj6J5cneiHNPde";  // Put here your Ubidots TOKEN
+const char* UBIDOTS_TOKEN = "";  // Put here your Ubidots TOKEN
 const char* WIFI_SSID = "Crazy Engineer's"; // Put here your Wi-Fi SSID
 const char* WIFI_PASS = "Alita:Battle Angel1"; // Put here your Wi-Fi password
 
